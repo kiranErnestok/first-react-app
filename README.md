@@ -1,2 +1,2 @@
 # first-react-app
-my first react ap
+My first react.js app.
